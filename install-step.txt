@@ -1,0 +1,6 @@
+1. install rust
+2. install torch
+3. install streamlit
+4. install pil, dkk
+5. set rust flag ($env:RUSTFLAGS = "-A invalid_reference_casting")
+6. install transformer==4.31.0
